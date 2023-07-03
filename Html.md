@@ -108,13 +108,13 @@ HTML使用标签 &lt;a>来设置超文本链接。
 ```
 
 为搜索引擎定义关键词:  
-`<meta name="keywords" content="HTML, CSS, XML, XHTML, JavaScript">`
+`<meta name="keywords" content="HTML, CSS, XML, XHTML, JavaScript">`  
 为网页定义描述内容:  
-`<meta name="description" content="Web">`
+`<meta name="description" content="Web">`  
 定义网页作者:  
-`<meta name="author" content="Runoob">`
+`<meta name="author" content="Runoob">`  
 每30秒钟刷新当前页面:  
-`<meta http-equiv="refresh" content="30">` 
+`<meta http-equiv="refresh" content="30">`  
 
 ## 使用CSS 
 
